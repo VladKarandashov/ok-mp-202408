@@ -1,0 +1,12 @@
+.gradle
+.idea
+/.idea/*.xml
+/.idea/**/*.xml
+*.iml
+**/*.log
+
+**/build/
+!**/src/**/build
+
+**/out/
+!**/src/**/out
